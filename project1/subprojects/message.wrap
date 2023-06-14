@@ -1,0 +1,6 @@
+[wrap-git]
+url = https://github.com/NINLeviathan/message.git
+revision = v1.0
+depth = 1
+
+patch_directory = message
