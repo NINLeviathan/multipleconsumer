@@ -35,7 +35,7 @@ meson setup builddir<N>
 Enter the resulting builddir
 
 ```sh
-cd <builddir<N>
+cd builddir<N>
 ```
 
 And compile the project
